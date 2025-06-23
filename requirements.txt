@@ -2,3 +2,6 @@ openai
 chromadb
 python-dotenv
 discord.py
+fastapi
+uvicorn
+python-dotenv
